@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    здесь будет таблица с догооворами!
                 </div>
             </div>
         </div>
